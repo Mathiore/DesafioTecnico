@@ -22,7 +22,7 @@ function saqueCaixaEletronico(saque){
             if (contadorcedula > 0){
                 console.log(contadorcedula, `Cédula de ${cedula} reais`)
             }
-            verificaCedula(cedula)
+            retornaValorCedula(cedula)
             contadorcedula = 0
             if (saque == 0){
                 break
