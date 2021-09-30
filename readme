@@ -1,0 +1,2 @@
+Para rodar o programa basta associar a função do programa uma variavel qualquer:
+e.g "sacar = saqueCaixaEletronico(30)"
